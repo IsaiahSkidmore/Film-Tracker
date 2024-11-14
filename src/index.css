@@ -106,6 +106,7 @@ button:focus-visible {
 
 #searchBtn {
   margin-left: 20px;
+  color: var(--primary-color);
 }
 
 main {
